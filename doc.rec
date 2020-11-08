@@ -1,0 +1,3 @@
+ESLINT WINDOWS 换行bug
+/*windows*/ 
+"linebreak-style": [0 ,"error", "unix"]

@@ -1,0 +1,10 @@
+2019-06-12 13:52:22,211 INFO 19664 [egg:logger] init all loggers with options: {"dir":"/mnt/restfulapiserver-master-bhschool/logs/egg-RESTfulAPI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-RESTfulAPI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-06-12 13:52:22,224 INFO 19664 [egg:core] dump config after load, 6ms
+2019-06-12 13:52:22,300 INFO 19664 [egg-watcher] Start watching: ["/mnt/restfulapiserver-master-bhschool/app","/mnt/restfulapiserver-master-bhschool/config","/mnt/restfulapiserver-master-bhschool/mocks","/mnt/restfulapiserver-master-bhschool/mocks_proxy","/mnt/restfulapiserver-master-bhschool/app.js"]
+2019-06-12 13:52:22,300 INFO 19664 [egg-watcher] Start watching: "/mnt/restfulapiserver-master-bhschool/app"
+2019-06-12 13:52:22,302 INFO 19664 [egg-watcher] Start watching: "/mnt/restfulapiserver-master-bhschool/config"
+2019-06-12 13:52:22,302 INFO 19664 [egg-watcher] Start watching: "/mnt/restfulapiserver-master-bhschool/mocks"
+2019-06-12 13:52:22,302 INFO 19664 [egg-watcher] Start watching: "/mnt/restfulapiserver-master-bhschool/mocks_proxy"
+2019-06-12 13:52:22,302 INFO 19664 [egg-watcher] Start watching: "/mnt/restfulapiserver-master-bhschool/app.js"
+2019-06-12 13:52:22,302 INFO 19664 [egg-watcher:agent] watcher start success
+2019-06-12 13:52:22,328 INFO 19664 [egg:core] dump config after ready, 6ms

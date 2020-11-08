@@ -1,0 +1,56 @@
+2019-06-12 13:52:23,506 INFO 19697 [egg:logger] init all loggers with options: {"dir":"/mnt/restfulapiserver-master-bhschool/logs/egg-RESTfulAPI","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-RESTfulAPI-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-12 13:52:23,544 INFO 19697 [egg-multipart] stream mode enable
+2019-06-12 13:52:23,763 INFO 19697 [egg-mongoose] connecting mongodb://127.0.0.1:27017/timescodes
+2019-06-12 13:52:23,830 INFO 19697 [egg-static] starting static serve /public/ -> /mnt/restfulapiserver-master-bhschool/app/public
+2019-06-12 13:52:23,833 INFO 19697 [egg-security] use methodnoallow middleware
+2019-06-12 13:52:23,833 INFO 19697 [egg-security] use noopen middleware
+2019-06-12 13:52:23,834 INFO 19697 [egg-security] use nosniff middleware
+2019-06-12 13:52:23,834 INFO 19697 [egg-security] use xssProtection middleware
+2019-06-12 13:52:23,835 INFO 19697 [egg-security] use xframe middleware
+2019-06-12 13:52:23,835 INFO 19697 [egg-security] use dta middleware
+2019-06-12 13:52:23,835 INFO 19697 [egg-security] compose 6 middlewares into one security middleware
+2019-06-12 13:52:24,009 INFO 19697 [egg:core] dump config after load, 9ms
+2019-06-12 13:52:24,014 INFO 19697 [egg-mongoose] starting...
+2019-06-12 13:52:24,082 ERROR 19697 [egg-mongoose] mongodb://127.0.0.1:27017/timescodes disconnected
+2019-06-12 13:52:24,085 ERROR 19697 nodejs.MongoError: [egg-mongoose]failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/mnt/restfulapiserver-master-bhschool/node_modules/mongodb-core/lib/topologies/server.js:336:35)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/mnt/restfulapiserver-master-bhschool/node_modules/mongodb-core/lib/connection/pool.js:280:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/mnt/restfulapiserver-master-bhschool/node_modules/mongodb-core/lib/connection/connection.js:189:49)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+name: "MongoError"
+message: "[egg-mongoose]failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"
+pid: 19697
+hostname: iZuf6dvltv2z18mqd9zk39Z
+
+2019-06-12 13:52:24,087 ERROR 19697 nodejs.MongoError: [egg-mongoose]failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/mnt/restfulapiserver-master-bhschool/node_modules/mongodb-core/lib/topologies/server.js:336:35)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/mnt/restfulapiserver-master-bhschool/node_modules/mongodb-core/lib/connection/pool.js:280:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/mnt/restfulapiserver-master-bhschool/node_modules/mongodb-core/lib/connection/connection.js:189:49)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+name: "MongoError"
+message: "[egg-mongoose]failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]"
+pid: 19697
+hostname: iZuf6dvltv2z18mqd9zk39Z
+
+2019-06-12 13:52:24,106 INFO 19697 [egg:core] dump config after ready, 14ms
+2019-06-12 13:52:24,122 INFO 19697 [egg-watcher:application] watcher start success
