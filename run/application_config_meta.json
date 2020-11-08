@@ -1,309 +1,324 @@
 {
-  "keys": "/mnt/restfulapiserver-master-bhschool/config/config.default.js",
-  "middleware": "/mnt/restfulapiserver-master-bhschool/config/config.default.js",
+  "keys": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\config\\config.default.js",
+  "middleware": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\config\\config.default.js",
   "security": {
     "csrf": {
-      "enable": "/mnt/restfulapiserver-master-bhschool/config/config.default.js",
-      "useSession": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js",
-      "ignoreJSON": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js",
-      "cookieName": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js",
-      "sessionName": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js",
-      "headerName": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js",
-      "bodyName": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js",
-      "queryName": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\config\\config.default.js",
+      "type": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js"
     },
-    "domainWhiteList": "/mnt/restfulapiserver-master-bhschool/config/config.default.js",
-    "protocolWhiteList": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js",
-    "defaultMiddleware": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js",
+    "domainWhiteList": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\config\\config.default.js",
+    "protocolWhiteList": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js",
     "xframe": {
-      "enable": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js",
-      "value": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "hsts": {
-      "enable": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js",
-      "maxAge": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js",
-      "includeSubdomains": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "dta": {
-      "enable": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "methodnoallow": {
-      "enable": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "noopen": {
-      "enable": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "nosniff": {
-      "enable": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "referrerPolicy": {
-      "enable": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js",
-      "value": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "xssProtection": {
-      "enable": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js",
-      "value": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "csp": {
-      "enable": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js",
-      "policy": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js",
-      "checkAddress": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js"
+      "ipBlackList": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js"
     }
   },
   "multipart": {
-    "fileExtensions": "/mnt/restfulapiserver-master-bhschool/config/config.default.js",
-    "mode": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-multipart/config/config.default.js",
-    "autoFields": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-multipart/config/config.default.js",
-    "defaultCharset": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-multipart/config/config.default.js",
-    "fieldNameSize": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-multipart/config/config.default.js",
-    "fieldSize": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-multipart/config/config.default.js",
-    "fields": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-multipart/config/config.default.js",
-    "fileSize": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-multipart/config/config.default.js",
-    "files": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-multipart/config/config.default.js",
-    "whitelist": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-multipart/config/config.default.js",
-    "tmpdir": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\config\\config.default.js",
+    "mode": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-multipart\\config\\config.default.js",
     "cleanSchedule": {
-      "cron": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-multipart/config/config.default.js"
+      "cron": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-multipart\\config\\config.default.js"
     }
   },
   "bcrypt": {
-    "saltRounds": "/mnt/restfulapiserver-master-bhschool/config/config.default.js"
+    "saltRounds": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\config\\config.default.js"
   },
   "mongoose": {
-    "url": "/mnt/restfulapiserver-master-bhschool/config/config.default.js",
+    "url": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\config\\config.default.js",
     "options": {
-      "useMongoClient": "/mnt/restfulapiserver-master-bhschool/config/config.default.js",
-      "autoReconnect": "/mnt/restfulapiserver-master-bhschool/config/config.default.js",
-      "reconnectTries": "/mnt/restfulapiserver-master-bhschool/config/config.default.js",
-      "bufferMaxEntries": "/mnt/restfulapiserver-master-bhschool/config/config.default.js"
+      "useMongoClient": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\config\\config.default.js",
+      "autoReconnect": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\config\\config.default.js",
+      "reconnectTries": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\config\\config.default.js",
+      "bufferMaxEntries": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\config\\config.default.js"
     },
-    "loadModel": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-mongoose/config/config.default.js",
-    "app": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-mongoose/config/config.default.js",
-    "agent": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-mongoose/config/config.default.js"
+    "loadModel": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "app": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "agent": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-mongoose\\config\\config.default.js"
   },
   "jwt": {
-    "secret": "/mnt/restfulapiserver-master-bhschool/config/config.default.js",
-    "enable": "/mnt/restfulapiserver-master-bhschool/config/config.default.js",
-    "match": "/mnt/restfulapiserver-master-bhschool/config/config.default.js"
+    "secret": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\config\\config.default.js",
+    "enable": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\config\\config.default.js",
+    "match": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\config\\config.default.js"
   },
   "session": {
-    "maxAge": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-session/config/config.default.js",
-    "key": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-session/config/config.default.js",
-    "httpOnly": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-session/config/config.default.js",
-    "encrypt": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-session/config/config.default.js"
+    "maxAge": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-session\\config\\config.default.js"
   },
   "helper": {
-    "shtml": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-security/config/config.default.js"
+    "shtml": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-security\\config\\config.default.js"
   },
   "jsonp": {
-    "limit": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-jsonp/config/config.default.js",
-    "callback": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-jsonp/config/config.default.js",
-    "csrf": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-jsonp/config/config.default.js"
+    "limit": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-jsonp\\config\\config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-onerror/config/config.default.js",
-    "appErrorFilter": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-onerror/config/config.default.js",
-    "templatePath": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-onerror/config/config.default.js"
+    "errorPageUrl": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-onerror\\config\\config.default.js"
   },
   "i18n": {
-    "defaultLocale": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-i18n/config/config.default.js",
-    "dirs": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-i18n/config/config.default.js",
-    "queryField": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-i18n/config/config.default.js",
-    "cookieField": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-i18n/config/config.default.js",
-    "cookieDomain": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-i18n/config/config.default.js",
-    "cookieMaxAge": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-i18n/config/config.default.js"
+    "defaultLocale": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-i18n\\config\\config.default.js"
   },
   "watcher": {
-    "type": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-watcher/config/config.default.js",
+    "type": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-watcher\\config\\config.local.js",
     "eventSources": {
-      "default": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-watcher/config/config.default.js",
-      "development": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-watcher/config/config.default.js"
+      "default": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-watcher\\config\\config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-schedule/config/config.default.js",
-      "file": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-schedule/config/config.default.js"
+      "consoleLevel": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-schedule\\config\\config.default.js"
     }
   },
   "schedule": {
-    "directory": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-schedule/config/config.default.js"
+    "directory": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-development\\config\\config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-logrotator/config/config.default.js",
-    "hourDelimiter": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-logrotator/config/config.default.js",
-    "filesRotateBySize": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-logrotator/config/config.default.js",
-    "maxFileSize": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-logrotator/config/config.default.js",
-    "maxFiles": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-logrotator/config/config.default.js",
-    "rotateDuration": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-logrotator/config/config.default.js",
-    "maxDays": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-logrotator/config/config.default.js"
+    "filesRotateByHour": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-logrotator\\config\\config.default.js"
   },
   "static": {
-    "prefix": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-static/config/config.default.js",
-    "dir": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-static/config/config.default.js",
-    "dynamic": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-static/config/config.default.js",
-    "preload": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-static/config/config.default.js",
-    "buffer": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-static/config/config.prod.js",
-    "maxFiles": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-static/config/config.default.js",
-    "maxAge": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-static/config/config.prod.js"
+    "prefix": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-static\\config\\config.default.js"
   },
   "view": {
-    "root": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-view/config/config.default.js",
-    "cache": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-view/config/config.default.js",
-    "defaultExtension": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-view/config/config.default.js",
-    "defaultViewEngine": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-view/config/config.default.js",
-    "mapping": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-view/config/config.default.js"
+    "root": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-view\\config\\config.default.js"
   },
-  "cors": "/mnt/restfulapiserver-master-bhschool/node_modules/egg-cors/config/config.default.js",
-  "env": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-  "name": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-  "proxy": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-  "maxProxyCount": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-  "protocolHeaders": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-  "ipHeaders": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-  "hostHeaders": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
+  "cors": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg-cors\\config\\config.default.js",
+  "env": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
   "pkg": {
-    "name": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "version": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "description": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "private": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
+    "name": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "description": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "private": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
     "dependencies": {
-      "await-stream-ready": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "egg": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "egg-bcrypt": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "egg-cors": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "egg-jwt": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "egg-mongoose": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "egg-scripts": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "egg-validate": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "image-downloader": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "mocha": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "moment": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "stream-to-array": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "stream-wormhole": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+      "await-stream-ready": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "egg": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "egg-bcrypt": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "egg-jwt": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "egg-mongoose": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "image-downloader": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "mocha": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "moment": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "stream-to-array": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "stream-wormhole": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {
-      "autod": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "autod-egg": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "egg-bin": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "egg-ci": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "egg-mock": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "eslint": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "eslint-config-egg": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "webstorm-disable-index": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+      "autod": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "webstorm-disable-index": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
     },
     "engines": {
-      "node": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+      "node": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
     },
     "scripts": {
-      "start": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "stop": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "dev": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "debug": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "test": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "test-local": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "cov": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "lint": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "ci": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "autod": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+      "start": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "stop": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "dev": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "debug": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "test": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "cov": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "lint": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "ci": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "autod": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
     },
     "ci": {
-      "version": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+      "version": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
     },
     "repository": {
-      "type": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "url": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+      "type": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "url": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
     },
-    "author": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "license": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+    "author": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
   },
-  "baseDir": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-  "HOME": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-  "rundir": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
+  "baseDir": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
   "dump": {
-    "ignore": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+    "ignore": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "notFound": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "sitefile": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "middlewares": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "httpClient": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+    "bodyparser": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
   },
   "notfound": {
-    "pageUrl": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+    "pageUrl": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+    "/favicon.ico": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
   },
   "bodyParser": {
-    "enable": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "encoding": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "formLimit": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "jsonLimit": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "strict": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
+    "enable": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
     "queryString": {
-      "arrayLimit": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "depth": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "parameterLimit": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
-    }
+      "arrayLimit": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
   },
   "logger": {
-    "dir": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "encoding": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "env": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "level": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "consoleLevel": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "disableConsoleAfterReady": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "outputJSON": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "buffer": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "appLogName": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "coreLogName": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "agentLogName": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "errorLogName": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "coreLogger": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "allowDebugAtProd": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+    "dir": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "dnsCacheLookupInterval": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "dnsCacheMaxLength": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
+    "enableDNSCache": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
     "request": {
-      "timeout": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+      "timeout": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "freeSocketTimeout": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "maxSockets": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+      "keepAlive": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "freeSocketTimeout": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "maxSockets": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+      "keepAlive": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
     }
   },
   "meta": {
-    "enable": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "logging": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+    "enable": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "logging": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
   },
-  "coreMiddleware": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-  "workerStartTimeout": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-  "serverTimeout": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
+  "coreMiddleware": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
   "cluster": {
     "listen": {
-      "path": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "port": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-      "hostname": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+      "path": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js",
-    "responseTimeout": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+    "maxWaitTime": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
   },
-  "onClientError": "/mnt/restfulapiserver-master-bhschool/node_modules/egg/config/config.default.js"
+  "onClientError": "C:\\Users\\宝强\\Desktop\\github\\bhSchool-egg-server\\node_modules\\egg\\config\\config.default.js"
 }
